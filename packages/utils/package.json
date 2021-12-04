@@ -12,6 +12,8 @@
   },
   "devDependencies": {
     "@types/date-fns": "^2.6.0",
-    "@types/react": "^17.0.37"
+    "@types/jest": "^27.0.3",
+    "@types/react": "^17.0.37",
+    "jest": "^27.4.3"
   }
 }
