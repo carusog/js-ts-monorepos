@@ -5,5 +5,9 @@
   "types": "dist/index.d.ts",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "date-fns": "^2.27.0",
+    "react": "^17.0.2"
   }
 }
