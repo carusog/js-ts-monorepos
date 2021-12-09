@@ -9,6 +9,12 @@
   "workspaces": [
     "packages/*"
   ],
+  "scripts": {
+    "greet": "scripty"
+  },
+  "scripty": {
+    "path": "./scripts/workspace"
+  },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.5.0",
     "@typescript-eslint/parser": "^5.5.0",
