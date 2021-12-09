@@ -10,7 +10,11 @@
     "packages/*"
   ],
   "scripts": {
-    "greet": "scripty"
+    "greet": "scripty",
+    "build": "scripty",
+    "clean": "scripty",
+    "lint": "scripty",
+    "test": "scripty"
   },
   "scripty": {
     "path": "./scripts/workspace"
